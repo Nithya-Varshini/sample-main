@@ -1,6 +1,7 @@
 # shE-Wallet
 
 **🏃‍♀️ Getting Started**
+
 Download she-Wallet from this GitHub repository. 
 After downloading the app, you can sign up for an account to explore the app.
 or use these default Credentials to directly log in to the App:
@@ -9,6 +10,7 @@ Password: test123
 
 
 **📝 Prerequisites**
+
 Before you start, make sure you have installed the following on your system:
 
 - Flutter SDK
@@ -20,6 +22,7 @@ Before you start, make sure you have installed the following on your system:
 - Gradle version 7.5
 
 **🛠️ Installation**
+
 1. Clone this repository or download the zip file and unzip it.
 2. Open the project folder in VS Code.
 3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
@@ -72,6 +75,6 @@ leader - flow:
 **Architecture:**
 ![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/0a617877-e6b5-448c-bc4e-3c7c4d12ff8c)
 
-Technology Stack:
-![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/aef098f9-f0df-422f-93e3-8ef61bbaa0c2)
+**Technology Stack:**
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/1f386f7f-c7b7-478d-88e2-3eaaa6190d0e)
 
