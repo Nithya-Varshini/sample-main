@@ -54,16 +54,20 @@ Once you have created an account you can start exploring the app's features:
 6. 💬 **Built-in Chat:**
    Connect and engage with community members beyond transactions using the built-in chat feature, fostering a supportive network.
 
-7. 📊 **Dashboard Overview:**
+7. **🎧 She-Help Chat Bot:**
+    Leverage the LLM Chat Bot using Gemini Pro for community related queries
+
+8. 📊 **Dashboard Overview:**
    Personal and community dashboards provide valuable insights into individual transactions, contributions, and overall community activities.
 
-8. 🔔 **Notifications:**
+9. 🔔 **Notifications:**
    Receive timely and important community reminders and updates, enhancing user engagement and financial responsibility.
 
-9. ⚙️ **Settings and Profile:**
+10. ⚙️ **Settings and Profile:**
    Access personal settings, edit profiles, enable app lock, and manage two-factor authentication for enhanced security and customization.
 
-10. 🚪 **Logout:**
+
+11. 🚪 **Logout:**
     Users can securely log out, ensuring privacy and the protection of their account information.
 
 **WorkFlow:**
