@@ -1,5 +1,7 @@
 # shE-Wallet
 
+Youtube Video Link: https://www.youtube.com/watch?v=_ftL8wKsLHA
+
 **🏃‍♀️ Getting Started**
 
 Download she-Wallet from this GitHub repository. 
