@@ -76,5 +76,6 @@ leader - flow:
 ![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/0a617877-e6b5-448c-bc4e-3c7c4d12ff8c)
 
 **Technology Stack:**
-![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/1f386f7f-c7b7-478d-88e2-3eaaa6190d0e)
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/7294bf50-045f-498c-971f-e50b5ff29961)
+
 
