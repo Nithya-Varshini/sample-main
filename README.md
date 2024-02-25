@@ -61,5 +61,17 @@ Once you have created an account you can start exploring the app's features:
 10. 🚪 **Logout:**
     Users can securely log out, ensuring privacy and the protection of their account information.
 
-    **Architecture:**
+**WorkFlow:**
+user - flow
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/75bbcc92-d772-48ce-bb34-97d74428cc7c)
+
+leader - flow:
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/329e5722-0272-4900-a201-e3175bf33e59)
+
+
+**Architecture:**
 ![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/0a617877-e6b5-448c-bc4e-3c7c4d12ff8c)
+
+Technology Stack:
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/aef098f9-f0df-422f-93e3-8ef61bbaa0c2)
+
