@@ -5,6 +5,10 @@ Youtube Video Link: https://www.youtube.com/watch?v=_ftL8wKsLHA
 **🏃‍♀️ Getting Started**
 
 Download she-Wallet from this GitHub repository. 
+
+Download the Zip file, and unzip it, go to the Lib Folder and click "RUN"
+
+Kindly use a android mobile phone for testing the Debug APK and not an emulator (for geo-location traking purposes)
 After downloading the app, you can sign up for an account to explore the app.
 or use these default Credentials to directly log in to the App:
 Username: test@gmail.com
