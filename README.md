@@ -85,3 +85,11 @@ leader - flow:
 ![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/7294bf50-045f-498c-971f-e50b5ff29961)
 
 
+
+**Technical Feedback recieved from our GDSC Chapter of our Colledge**
+
+Explaing our solution to the GDSC Members of our colledge
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/8d81d009-201f-4451-bb48-a470d7b86373)
+
+Forms Circulated After explaining our Solution "shE-Wallet":
+![image](https://github.com/Nithya-Varshini/sample-main/assets/111070486/7e8eb03f-8e12-433f-aafa-055d41309dfd)
